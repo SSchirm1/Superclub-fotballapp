@@ -1,0 +1,6 @@
+@Superclub_fotballapp.Server_HostAddress = http://localhost:5157
+
+GET {{Superclub_fotballapp.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
